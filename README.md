@@ -1,5 +1,5 @@
 # Auto-Diffrentiation-Engine
-An Auto-Differentiation Engine that computes gradients for a network of mathematical expressions. This project implements the core functionality needed to perform automatic differentiation, enabling backpropagation in computational graphs.\
+An Auto-Differentiation Engine that computes gradients for a network of mathematical expressions. This project implements the core functionality needed to perform automatic differentiation, enabling backpropagation in computational graphs.
 
 ## Features
 
